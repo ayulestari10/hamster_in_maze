@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1481605950 source:d:\kel2_soal2_hamster_dalam_maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hamster_dalam_maze.h"
+
+1481606709 d:\kel2_soal2_hamster_dalam_maze\hamster_dalam_maze.h
+
+1481606434 source:d:\kel2_soal2_hamster_dalam_maze\hamster_dalam_maze.c
+	<stdio.h>
+	<stdlib.h>
+	"hamster_dalam_maze.h"
+
